@@ -8,24 +8,16 @@ In this project, we're bringing data to life with a distributed system powered b
 
 📹 What Are We Building?
 A Kafka-powered pipeline that:
-
 Uses Python to read video data from a static file
-
 Streams video frames into Kafka as serialized messages
-
 Processes and consumes those messages to serve them in real-time
-
 Displays the video in a browser through a Flask app
 
 🧰 Tech Stack
 Apache Kafka: Streaming backbone
-
 Python: Language of choice
-
 Kafka-Python: Kafka client for Python
-
 OpenCV: For reading and encoding video frames
-
 Flask: Web server for serving frames
 
 
