@@ -1,4 +1,5 @@
 # Data-Streaming-App
+#work in progress
 In this project, we're bringing data to life with a distributed system powered by Apache Kafka and Python. Inspired by Kris Jenkins' Coding in Motion series, we’ll build a real-time video streaming solution that:
 
 
